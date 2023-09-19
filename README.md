@@ -1,12 +1,19 @@
 ![Header](https://github.com/tatianalebed/tatianalebed/blob/main/assets/header.jpg)
 
-## I'm a Junior Quality Assuarance Engineer and beginner in Java language learning
+## Hi! I'm a Junior Quality Assuarance Engineer and beginner in Java language learning
 
-### My CV ![Download it here](https://drive.google.com/file/d/1Aa8OirBIJPHQKnV7_t1WQEGSJaFL4K9N/view?usp=sharing)
+## My CV 
+![Download it here](https://drive.google.com/file/d/1Aa8OirBIJPHQKnV7_t1WQEGSJaFL4K9N/view?usp=sharing)
 
-### Testing Documentation
+### Testing Documentation(samples)
+
+- [Checklist](https://github.com/tatianalebed/example-check-list)
+- [Another artifact(instruction)](https://github.com/tatianalebed/example-instruction)
+- [Postman collection](https://github.com/tatianalebed/example-postman-collection/tree/main)
 
 ### Examples of coding(Java)
+
+- [Java project](https://github.com/tatianalebed/sample-java-code)
 
 ### Languages and Tools
 
