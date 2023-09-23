@@ -15,6 +15,10 @@
 
 - [Java project](https://github.com/tatianalebed/sample-java-code)
 
+### Project management system (my sample dashboard in Azure DevOps)
+
+- [Azure DevOps](https://dev.azure.com/lebdevatatiana/New%20Beginning)
+
 ### Languages and Tools
 
 ![MySQL](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&logoColor=3D3BFF)
