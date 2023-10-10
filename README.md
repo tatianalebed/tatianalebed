@@ -3,7 +3,7 @@
 ## Hi! I'm a Junior Quality Assuarance Engineer and beginner in Java language learning
 
 ## My CV 
-[Download it here](https://drive.google.com/file/d/1Aa8OirBIJPHQKnV7_t1WQEGSJaFL4K9N/view?usp=sharing)
+[Download it here](https://drive.google.com/file/d/1nt2vNBk5V7qEhdbiyEdc4bEcSD3qFQ4R/view?usp=sharing)
 
 ### Testing Documentation(samples)
 
