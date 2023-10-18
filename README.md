@@ -1,6 +1,6 @@
 ![Header](https://github.com/tatianalebed/tatianalebed/blob/main/assets/header.jpg)
 
-## Hi! I'm a Junior Quality Assuarance Engineer and beginner in Java language learning
+## Hi! I'm a Quality Assuarance Engineer and beginner in Java language learning
 
 ## My CV 
 [Download it here](https://drive.google.com/file/d/1o7sL5OVI74clQ-wvQbk8jUy6G2zDPtHm/view?usp=share_link)
