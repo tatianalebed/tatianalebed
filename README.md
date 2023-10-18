@@ -3,11 +3,12 @@
 ## Hi! I'm a Junior Quality Assuarance Engineer and beginner in Java language learning
 
 ## My CV 
-[Download it here](https://drive.google.com/file/d/1nt2vNBk5V7qEhdbiyEdc4bEcSD3qFQ4R/view?usp=sharing)
+[Download it here](https://drive.google.com/file/d/1o7sL5OVI74clQ-wvQbk8jUy6G2zDPtHm/view?usp=share_link)
 
 ### Testing Documentation(samples)
 
 - [Checklist](https://github.com/tatianalebed/example-check-list)
+- [Bug-report](https://github.com/tatianalebed/example-bug-report)
 - [Another artifact(instruction)](https://github.com/tatianalebed/example-instruction)
 - [Postman collection](https://github.com/tatianalebed/example-postman-collection/tree/main)
 
